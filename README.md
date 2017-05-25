@@ -1,1 +1,1 @@
-# mtg-sealer-js
+# Magic the Gathering sealed deck helper
